@@ -1,5 +1,5 @@
 {
-  "name": "@xrenders/schema-builder",
+  "name": "@qindj/schema-builder",
   "version": "1.0.0-alpha.20",
   "description": "通过 JSON Schema 生成标准 Form，常用于自定义搭建配置界面生成",
   "keywords": [
